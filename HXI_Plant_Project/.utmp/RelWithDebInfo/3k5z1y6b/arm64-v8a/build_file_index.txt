@@ -1,0 +1,2 @@
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

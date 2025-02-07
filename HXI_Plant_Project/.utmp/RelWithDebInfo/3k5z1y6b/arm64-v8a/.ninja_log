@@ -1,0 +1,10 @@
+# ninja log v5
+4	2540	1738827137690677141	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b08c27375d922233
+1	2693	1738827137843258627	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5553f44600e914a5
+2	2823	1738827137967837728	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f007fdaac3f10c55
+4	2895	1738827138043457717	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d3608393340f19a0
+4	3181	1738827138333455949	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	db805ecaf17e5ccc
+1	3338	1738827138491661045	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e5187ac1dd5c0aba
+3	3560	1738827138714628371	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	db0c96299156be65
+0	3728	1738827138882958224	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	49c7c016805b77ca
+3728	3912	1738827139074011562	/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3k5z1y6b/obj/arm64-v8a/libgame.so	7799b7af3c591db7

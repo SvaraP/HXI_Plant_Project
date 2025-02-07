@@ -1,0 +1,5 @@
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/.utmp/RelWithDebInfo/3k5z1y6b/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/.utmp/RelWithDebInfo/3k5z1y6b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/.utmp/RelWithDebInfo/3k5z1y6b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/.utmp/RelWithDebInfo/3k5z1y6b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/svara/Desktop/Edu/ExtraCirrculars_Uni/HXI_research/HXI_Plant_Project/HXI_Plant_Project/.utmp/RelWithDebInfo/3k5z1y6b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

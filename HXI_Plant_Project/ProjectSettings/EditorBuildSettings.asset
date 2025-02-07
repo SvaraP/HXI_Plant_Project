@@ -5,9 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Plant Environement.unity
+    guid: 1ed07b88312464aedb1f49a99682e834
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bae3586a9f0f540088b870dc1f51cfaf, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5650ce2bf776346168f59c3f4f965b7c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7ca15fa1f87a48c7a1ade33028e3f6e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1814dd6c8b273425ab01e99bf0129e7f, type: 2}
   m_UseUCBPForAssetBundles: 0
